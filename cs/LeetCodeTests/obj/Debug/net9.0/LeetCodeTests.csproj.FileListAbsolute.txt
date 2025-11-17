@@ -93,9 +93,10 @@
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/bin/Debug/net9.0/LeetCodeSolutions.dll
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/bin/Debug/net9.0/LeetCodeSolutions.pdb
-/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/LeetCode.E0F4A4AC.Up2Date
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/LeetCodeTests.dll
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/refint/LeetCodeTests.dll
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/LeetCodeTests.pdb
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/LeetCodeTests.genruntimeconfig.cache
 /Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/ref/LeetCodeTests.dll
+/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/LeetCodeTests.sourcelink.json
+/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCodeTests/obj/Debug/net9.0/LeetCode.E0F4A4AC.Up2Date
