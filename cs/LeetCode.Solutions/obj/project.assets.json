@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "/Users/davidkim/.nuget/packages/": {}
+    "/home/david/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+      "projectUniqueName": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
       "projectName": "LeetCode.Solutions",
-      "projectPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
-      "packagesPath": "/Users/davidkim/.nuget/packages/",
-      "outputPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/obj/",
+      "projectPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+      "packagesPath": "/home/david/.nuget/packages/",
+      "outputPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/davidkim/.nuget/NuGet/NuGet.Config"
+        "/home/david/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -38,17 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

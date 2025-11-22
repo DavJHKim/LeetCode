@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Tests/LeetCode.Tests.csproj": {}
+    "/home/david/projects/LeetCode/cs/LeetCode.Tests/LeetCode.Tests.csproj": {}
   },
   "projects": {
-    "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj": {
+    "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+        "projectUniqueName": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
         "projectName": "LeetCode.Solutions",
-        "projectPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
-        "packagesPath": "/Users/davidkim/.nuget/packages/",
-        "outputPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/obj/",
+        "projectPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidkim/.nuget/NuGet/NuGet.Config"
+          "/home/david/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,17 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,34 +53,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Tests/LeetCode.Tests.csproj": {
+    "/home/david/projects/LeetCode/cs/LeetCode.Tests/LeetCode.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Tests/LeetCode.Tests.csproj",
+        "projectUniqueName": "/home/david/projects/LeetCode/cs/LeetCode.Tests/LeetCode.Tests.csproj",
         "projectName": "LeetCode.Tests",
-        "projectPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Tests/LeetCode.Tests.csproj",
-        "packagesPath": "/Users/davidkim/.nuget/packages/",
-        "outputPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Tests/obj/",
+        "projectPath": "/home/david/projects/LeetCode/cs/LeetCode.Tests/LeetCode.Tests.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/projects/LeetCode/cs/LeetCode.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidkim/.nuget/NuGet/NuGet.Config"
+          "/home/david/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj": {
-                "projectPath": "/Users/davidkim/Desktop/Projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj"
+              "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj": {
+                "projectPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj"
               }
             }
           }
@@ -95,17 +89,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -140,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

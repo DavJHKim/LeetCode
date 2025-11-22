@@ -1,0 +1,12 @@
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/bin/Debug/net8.0/LeetCode.Solutions.deps.json
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/bin/Debug/net8.0/LeetCode.Solutions.dll
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/bin/Debug/net8.0/LeetCode.Solutions.pdb
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.AssemblyInfoInputs.cache
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.AssemblyInfo.cs
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.csproj.CoreCompileInputs.cache
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.sourcelink.json
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.dll
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/refint/LeetCode.Solutions.dll
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.pdb
+/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/ref/LeetCode.Solutions.dll
