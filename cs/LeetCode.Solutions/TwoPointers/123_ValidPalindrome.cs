@@ -12,15 +12,15 @@ public class ValidPalindromeSolution
 
         while (l <= r)
         {
-            while (l < r && Char.IsLetterOrDigit(s[l]))
+            while (l < r && !Char.IsLetterOrDigit(s[l]))
             {
                 l++;
             }
-            while (r > l && Char.IsLetterOrDigit(s[r]))
+            while (r > l && !Char.IsLetterOrDigit(s[r]))
             {
                 r--;
             }
-            if (!s[l].Equals(s[r])) 
+            if (!Char.ToLower(s[l]).Equals(Char.ToLower(s[r]))) 
             {
                 return false;   
             }
