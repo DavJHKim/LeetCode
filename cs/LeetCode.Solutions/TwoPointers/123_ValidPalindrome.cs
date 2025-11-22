@@ -4,7 +4,7 @@ namespace LeetCode.Solutions;
 
 public class ValidPalindromeSolution    
 {   
-    public bool ValidPalindrom(string s)
+    public bool ValidPalindrome(string s)
     {
         int n = s.Length;
         int l = 0;
@@ -21,7 +21,7 @@ public class ValidPalindromeSolution
                 else if (Char.ToLower(s[l]).Equals(Char.ToLower(s[r])))
                 {
                     l++;
-                    r++;
+                    r--;
                 }
                 else
                 {
@@ -30,7 +30,7 @@ public class ValidPalindromeSolution
             }
             else if (Char.IsLetterOrDigit(s[l]))
             {
-                r++; 
+                r--; 
                 continue;
             }
             else if (Char.IsLetterOrDigit(s[r]))
@@ -41,7 +41,7 @@ public class ValidPalindromeSolution
             else
             {
                 l++;
-                r++;
+                r--;
             }
         }
         return false;
