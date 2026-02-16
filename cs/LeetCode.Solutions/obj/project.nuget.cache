@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4Tppg4wugJyYrbVjzzc1hF4vYLd36PIJ90NG6uo7Nb6HowsL87CLbxHH/CkDXufayBYyvpZMF1hsT+0hKoPB9g==",
+  "dgSpecHash": "iUicgLg7kIA=",
   "success": true,
-  "projectFilePath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidkim/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/davidkim/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

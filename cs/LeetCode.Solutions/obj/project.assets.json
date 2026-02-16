@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/david/.nuget/packages/": {}
+    "/Users/davidkim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+      "projectUniqueName": "/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
       "projectName": "LeetCode.Solutions",
-      "projectPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
-      "packagesPath": "/home/david/.nuget/packages/",
-      "outputPath": "/home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/",
+      "projectPath": "/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/LeetCode.Solutions.csproj",
+      "packagesPath": "/Users/davidkim/.nuget/packages/",
+      "outputPath": "/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/david/.nuget/NuGet/NuGet.Config"
+        "/Users/davidkim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -54,12 +60,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

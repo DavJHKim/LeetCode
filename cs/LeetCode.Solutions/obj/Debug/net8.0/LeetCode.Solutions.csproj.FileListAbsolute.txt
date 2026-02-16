@@ -10,3 +10,15 @@
 /home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/refint/LeetCode.Solutions.dll
 /home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.pdb
 /home/david/projects/LeetCode/cs/LeetCode.Solutions/obj/Debug/net8.0/ref/LeetCode.Solutions.dll
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.AssemblyInfoInputs.cache
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.AssemblyInfo.cs
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.csproj.CoreCompileInputs.cache
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.sourcelink.json
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.dll
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/refint/LeetCode.Solutions.dll
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/LeetCode.Solutions.pdb
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/bin/Debug/net8.0/LeetCode.Solutions.deps.json
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/bin/Debug/net8.0/LeetCode.Solutions.dll
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/bin/Debug/net8.0/LeetCode.Solutions.pdb
+/Users/davidkim/projects/leetcode/cs/LeetCode.Solutions/obj/Debug/net8.0/ref/LeetCode.Solutions.dll

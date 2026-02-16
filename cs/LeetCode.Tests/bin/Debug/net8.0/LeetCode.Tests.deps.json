@@ -343,7 +343,10 @@
       "xunit.runner.visualstudio/2.8.2": {},
       "LeetCode.Solutions/1.0.0": {
         "runtime": {
-          "LeetCode.Solutions.dll": {}
+          "LeetCode.Solutions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
