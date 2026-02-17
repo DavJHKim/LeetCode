@@ -1,3 +1,3 @@
 ### LeetCode Problems Progress
 
-Currently tackling problems in python and c#
+A reflection of my current progress in solving leetcode problems in different languages in order to improve on my DSA 
